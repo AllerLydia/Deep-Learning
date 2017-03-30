@@ -3,9 +3,9 @@ Projects from Udacity Deep Learning Nanodegree
 Thanks to Siraj, for making this happen!
 
 
-#Hellp World!
-This is Lydia, I'm very pationate about data mining, data analytics and mahine learning. It opens up a new door to me and keeps me hungry. I've taken Coursera Machine Learning Specicalist course from UW and I'm now doing nonadegree in Udacity! 
+# Hellp World!
 
-I'm a data science consultant, focuing on forecast and prediction. I majorly work with clients' Operation Research team on varies Revenue Management projects, like Pricing, Demand Forecast and Fleet Management. 
+This is Lydia, I'm very passionate about data mining, data analytics, and machine learning. It opens up a new door to me and keeps me hungry. I've taken Coursera Machine Learning Specialist course from UW and I'm now doing none degree in Udacity! 
+I'm a data science consultant, focusing on forecast and prediction. I majorly work with clients' Operation Research team on varies Revenue Management projects, like Pricing, Demand Forecast, and Fleet Management. 
 
-I will be keep updating my repositories, and hopefully, bacome a master data scientist some day! :D
+I will keep updating my repositories, and hopefully, become a master data scientist some day! :D
