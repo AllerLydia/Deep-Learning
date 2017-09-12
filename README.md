@@ -1,7 +1,9 @@
 # Deep-Learning
 Projects from Udacity Deep Learning Nanodegree.  
 Thanks to Siraj, for making this happen!  
-
+TensorFlow version - 1.1.0
+Python version - 3.5
+GPU - floyd
 
 ## Hello World!
 
