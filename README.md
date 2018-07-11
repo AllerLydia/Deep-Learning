@@ -11,3 +11,7 @@ This is Lydia, I'm very passionate about data mining, data analytics, and machin
 I'm a data science consultant, focusing on forecast and prediction. I majorly work with clients' Operation Research team on varies Revenue Management projects, like Pricing, Demand Forecast, and Fleet Management. 
 
 I will keep updating my repositories, and hopefully, become a master data scientist some day! :D
+
+[![Udacity - Fly Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/flying-car-nanodegree--nd787)
+
+https://confirm.udacity.com/DDKCQU5S
