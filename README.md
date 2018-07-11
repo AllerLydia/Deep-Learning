@@ -14,7 +14,7 @@ I will keep updating my repositories, and hopefully, become a master data scient
 
 [![Udacity - Fly Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/flying-car-nanodegree--nd787)
 <p align="center">
-<img src="certificate.png" width="500"/>
+<img src="certificate.png" width="1000"/>
 </p>
 
 
